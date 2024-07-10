@@ -2,7 +2,7 @@ package week1;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-public class week1 {
+public class exp1 {
 
 
 		// TODO Auto-generated method stub
